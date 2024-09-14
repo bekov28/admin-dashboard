@@ -1,19 +1,19 @@
-import img1 from "../camping/assets/img-1.svg";
-import img2 from "../camping/assets/img-2.svg";
-import img3 from "../camping/assets/img-3.svg";
+// import img1 from "../camping/assets/img-1.svg";
+// import img2 from "../camping/assets/img-2.svg";
+// import img3 from "../camping/assets/img-3.svg";
 
-export const campcarCampingPage = {
+export const campcarCampingPlace = {
   maindata: [
     {
       id: 1,
       camping: {
-        photo: `${img1}`,
+        // photo: `${img1}`,
         name: "Surfyy Beach Camping",
         cost: "73,200,000",
         type: "르노마스터",
         license: "1종 보통",
         people: "4인",
-        date: "005- 862 -8569",
+        phone: "005- 862 -8569",
         company: "다온티앤티",
         location: "Yangyang-gun",
         open: "11:00",
@@ -33,13 +33,13 @@ export const campcarCampingPage = {
     {
       id: 2,
       camping: {
-        photo: `${img2}`,
+        // photo: `${img2}`,
         name: "Nanji Camp",
         cost: "73,700,000",
         type: "르노마스터",
         license: "1종 보통",
         people: "4인",
-        date: "031- 862 -8569",
+        phone: "031- 862 -8569",
         company: "다온티앤티",
         location: "Sangam-dong",
         rate: 4.1,
@@ -52,13 +52,13 @@ export const campcarCampingPage = {
     {
       id: 3,
       camping: {
-        photo: `${img3}`,
+        // photo: `${img3}`,
         name: "Jeju Starlight Glamping",
         cost: "91,700,000",
         type: "르노마스터",
         license: "1종 보통",
         people: "5인",
-        date: "032-1256-1234",
+        phone: "032-1256-1234",
         company: "다온티앤티",
         location: "Jeju-do",
         rate: 4.2,

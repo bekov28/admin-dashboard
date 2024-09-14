@@ -8,7 +8,6 @@ import ListItemButton from "@mui/joy/ListItemButton";
 import Typography from "@mui/joy/Typography";
 import ModalClose from "@mui/joy/ModalClose";
 import Menu from "@mui/icons-material/Menu";
-import Search from "@mui/icons-material/Search";
 import { Link } from "react-router-dom";
 
 export default function DrawerMobileNavigation() {
@@ -56,11 +55,18 @@ export default function DrawerMobileNavigation() {
             {" "}
             <ListItemButton>Motor</ListItemButton>
           </Link>
-
-          <ListItemButton>Caravan</ListItemButton>
-          <ListItemButton>Tuning</ListItemButton>
-          <ListItemButton>Used Car</ListItemButton>
-          <ListItemButton>Camping Place</ListItemButton>
+          <Link to={"/caravan"} style={{ textDecoration: "none" }}>
+            <ListItemButton>Caravan</ListItemButton>
+          </Link>
+          <Link to={"/tuning"} style={{ textDecoration: "none" }}>
+            <ListItemButton>Tuning</ListItemButton>
+          </Link>
+          <Link to={"/usedCar"} style={{ textDecoration: "none" }}>
+            <ListItemButton>Used Car</ListItemButton>
+          </Link>
+          <Link to={"/camping"} style={{ textDecoration: "none" }}>
+            <ListItemButton>Camping Place</ListItemButton>
+          </Link>
         </List>
       </Drawer>
     </React.Fragment>

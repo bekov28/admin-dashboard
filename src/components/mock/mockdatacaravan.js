@@ -1,40 +1,40 @@
-import img from "../caravan/assets/caravan1.jpg";
-import img3 from "../caravan/assets/caravan2.jpg";
-import img2 from "../caravan/assets/caravan3.png";
-import img4 from "../caravan/assets/caravan4.jpg";
-import img5 from "../caravan/assets/caravan5.jpg";
-import photo1 from "../caravan/menu/assets1/photo1.jpg";
-import photo2 from "../caravan/menu/assets1/photo2.jpg";
-import photo3 from "../caravan/menu/assets1/photo3.jpg";
-import photo4 from "../caravan/menu/assets1/photo4.jpg";
-import photo5 from "../caravan/menu/assets1/photo5.jpg";
-import pic1 from "../caravan/menu/assets2/pic1.jpg";
-import pic2 from "../caravan/menu/assets2/pic2.jpg";
-import pic3 from "../caravan/menu/assets2/pic3.jpg";
-import pic4 from "../caravan/menu/assets2/pic4.jpg";
-import pic5 from "../caravan/menu/assets2/pic5.jpg";
-import image1 from "../caravan/menu/assets3/image1.jpg";
-import image2 from "../caravan/menu/assets3/image2.jpg";
-import image3 from "../caravan/menu/assets3/image3.jpg";
-import image4 from "../caravan/menu/assets3/image4.jpg";
-import image5 from "../caravan/menu/assets3/image5.jpg";
-import picture1 from "../caravan/menu/assets4/picture1.jpg";
-import picture2 from "../caravan/menu/assets4/picture2.jpg";
-import picture3 from "../caravan/menu/assets4/picture3.jpg";
-import picture4 from "../caravan/menu/assets4/picture4.jpg";
-import picture5 from "../caravan/menu/assets4/picture5.jpg";
-import inside1 from "../caravan/menu/assets5/inside1.jpg";
-import inside2 from "../caravan/menu/assets5/inside2.jpg";
-import inside3 from "../caravan/menu/assets5/inside3.jpg";
-import inside4 from "../caravan/menu/assets5/inside4.jpg";
-import inside5 from "../caravan/menu/assets5/inside5.jpg";
+// import img from "../caravan/assets/caravan1.jpg";
+// import img3 from "../caravan/assets/caravan2.jpg";
+// import img2 from "../caravan/assets/caravan3.png";
+// import img4 from "../caravan/assets/caravan4.jpg";
+// import img5 from "../caravan/assets/caravan5.jpg";
+// import photo1 from "../caravan/menu/assets1/photo1.jpg";
+// import photo2 from "../caravan/menu/assets1/photo2.jpg";
+// import photo3 from "../caravan/menu/assets1/photo3.jpg";
+// import photo4 from "../caravan/menu/assets1/photo4.jpg";
+// import photo5 from "../caravan/menu/assets1/photo5.jpg";
+// import pic1 from "../caravan/menu/assets2/pic1.jpg";
+// import pic2 from "../caravan/menu/assets2/pic2.jpg";
+// import pic3 from "../caravan/menu/assets2/pic3.jpg";
+// import pic4 from "../caravan/menu/assets2/pic4.jpg";
+// import pic5 from "../caravan/menu/assets2/pic5.jpg";
+// import image1 from "../caravan/menu/assets3/image1.jpg";
+// import image2 from "../caravan/menu/assets3/image2.jpg";
+// import image3 from "../caravan/menu/assets3/image3.jpg";
+// import image4 from "../caravan/menu/assets3/image4.jpg";
+// import image5 from "../caravan/menu/assets3/image5.jpg";
+// import picture1 from "../caravan/menu/assets4/picture1.jpg";
+// import picture2 from "../caravan/menu/assets4/picture2.jpg";
+// import picture3 from "../caravan/menu/assets4/picture3.jpg";
+// import picture4 from "../caravan/menu/assets4/picture4.jpg";
+// import picture5 from "../caravan/menu/assets4/picture5.jpg";
+// import inside1 from "../caravan/menu/assets5/inside1.jpg";
+// import inside2 from "../caravan/menu/assets5/inside2.jpg";
+// import inside3 from "../caravan/menu/assets5/inside3.jpg";
+// import inside4 from "../caravan/menu/assets5/inside4.jpg";
+// import inside5 from "../caravan/menu/assets5/inside5.jpg";
 
 export const campcarCaravan = {
   maindata: [
     {
       id: 1,
       car: {
-        photo: `${img}`,
+        // photo: `${img}`,
         name: "Camper Sardegna",
         cost: "73,200,000 KRW",
         type: "르노마스터",
@@ -55,16 +55,16 @@ export const campcarCaravan = {
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
 
-      photo1: `${photo1}`,
-      photo2: `${photo2}`,
-      photo3: `${photo3}`,
-      photo4: `${photo4}`,
-      photo5: `${photo5}`,
+      // photo1: `${photo1}`,
+      // photo2: `${photo2}`,
+      // photo3: `${photo3}`,
+      // photo4: `${photo4}`,
+      // photo5: `${photo5}`,
     },
     {
       id: 2,
       car: {
-        photo: `${img3}`,
+        // photo: `${img3}`,
         name: "2022 Joa Camp",
         cost: "73,700,000 KRW",
         type: "르노마스터",
@@ -85,16 +85,16 @@ export const campcarCaravan = {
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
 
-      photo1: `${pic1}`,
-      photo2: `${pic2}`,
-      photo3: `${pic3}`,
-      photo4: `${pic4}`,
-      photo5: `${pic5}`,
+      // photo1: `${pic1}`,
+      // photo2: `${pic2}`,
+      // photo3: `${pic3}`,
+      // photo4: `${pic4}`,
+      // photo5: `${pic5}`,
     },
     {
       id: 3,
       car: {
-        photo: `${img2}`,
+        // photo: `${img2}`,
         name: "T67/24",
         cost: "91,700,000 KRW",
         type: "르노마스터",
@@ -114,16 +114,16 @@ export const campcarCaravan = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${image1}`,
-      photo2: `${image2}`,
-      photo3: `${image3}`,
-      photo4: `${image4}`,
-      photo5: `${image5}`,
+      // photo1: `${image1}`,
+      // photo2: `${image2}`,
+      // photo3: `${image3}`,
+      // photo4: `${image4}`,
+      // photo5: `${image5}`,
     },
     {
       id: 4,
       car: {
-        photo: `${img4}`,
+        // photo: `${img4}`,
         name: "르벤투스 차박S",
         cost: "56,500,000 KRW",
         type: "르노마스터",
@@ -144,16 +144,16 @@ export const campcarCaravan = {
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
 
-      photo1: `${picture1}`,
-      photo2: `${picture2}`,
-      photo3: `${picture3}`,
-      photo4: `${picture4}`,
-      photo5: `${picture5}`,
+      // photo1: `${picture1}`,
+      // photo2: `${picture2}`,
+      // photo3: `${picture3}`,
+      // photo4: `${picture4}`,
+      // photo5: `${picture5}`,
     },
     {
       id: 5,
       car: {
-        photo: `${img2}`,
+        // photo: `${img2}`,
         name: "T67/24",
         cost: "85,100,000 KRW",
         type: "포터",
@@ -173,16 +173,16 @@ export const campcarCaravan = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${image1}`,
-      photo2: `${image2}`,
-      photo3: `${image3}`,
-      photo4: `${image4}`,
-      photo5: `${image5}`,
+      // photo1: `${image1}`,
+      // photo2: `${image2}`,
+      // photo3: `${image3}`,
+      // photo4: `${image4}`,
+      // photo5: `${image5}`,
     },
     {
       id: 6,
       car: {
-        photo: `${img}`,
+        // photo: `${img}`,
         name: "Camper Sardegna",
         cost: "72,700,000 KRW",
         type: "포터",
@@ -202,16 +202,16 @@ export const campcarCaravan = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${photo1}`,
-      photo2: `${photo2}`,
-      photo3: `${photo3}`,
-      photo4: `${photo4}`,
-      photo5: `${photo5}`,
+      // photo1: `${photo1}`,
+      // photo2: `${photo2}`,
+      // photo3: `${photo3}`,
+      // photo4: `${photo4}`,
+      // photo5: `${photo5}`,
     },
     {
       id: 7,
       car: {
-        photo: `${img2}`,
+        // photo: `${img2}`,
         name: "T67/24",
         cost: "72,700,000 KRW",
         type: "포터",
@@ -231,16 +231,16 @@ export const campcarCaravan = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${image1}`,
-      photo2: `${image2}`,
-      photo3: `${image3}`,
-      photo4: `${image4}`,
-      photo5: `${image5}`,
+      // photo1: `${image1}`,
+      // photo2: `${image2}`,
+      // photo3: `${image3}`,
+      // photo4: `${image4}`,
+      // photo5: `${image5}`,
     },
     {
       id: 8,
       car: {
-        photo: `${img}`,
+        // photo: `${img}`,
         name: "Camper Sardegna",
         cost: "71,900,000 KRW",
         type: "봉고",
@@ -260,16 +260,16 @@ export const campcarCaravan = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${photo1}`,
-      photo2: `${photo2}`,
-      photo3: `${photo3}`,
-      photo4: `${photo4}`,
-      photo5: `${photo5}`,
+      // photo1: `${photo1}`,
+      // photo2: `${photo2}`,
+      // photo3: `${photo3}`,
+      // photo4: `${photo4}`,
+      // photo5: `${photo5}`,
     },
     {
       id: 9,
       car: {
-        photo: `${img5}`,
+        // photo: `${img5}`,
         name: "CamperVans",
         cost: "70,500,000 KRW",
         type: "봉고",
@@ -289,17 +289,17 @@ export const campcarCaravan = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-    
-      photo1: `${inside1}`,
-      photo2: `${inside2}`,
-      photo3: `${inside3}`,
-      photo4: `${inside4}`,
-      photo5: `${inside5}`,
+
+      // photo1: `${inside1}`,
+      // photo2: `${inside2}`,
+      // photo3: `${inside3}`,
+      // photo4: `${inside4}`,
+      // photo5: `${inside5}`,
     },
     {
       id: 10,
       car: {
-        photo: `${img4}`,
+        // photo: `${img4}`,
         name: "ACIER 790R",
         cost: "75,800,000 KRW",
         type: "이베코 뉴데일리",
@@ -319,16 +319,16 @@ export const campcarCaravan = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${picture1}`,
-      photo2: `${picture2}`,
-      photo3: `${picture3}`,
-      photo4: `${picture4}`,
-      photo5: `${picture5}`,
+      // photo1: `${picture1}`,
+      // photo2: `${picture2}`,
+      // photo3: `${picture3}`,
+      // photo4: `${picture4}`,
+      // photo5: `${picture5}`,
     },
     {
-      id: 12,
+      id: 11,
       car: {
-        photo: `${img5}`,
+        // photo: `${img5}`,
         name: "CamperVans",
         cost: "82,800,000 KRW",
         type: "이베코 뉴데일리",
@@ -348,16 +348,16 @@ export const campcarCaravan = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${inside1}`,
-      photo2: `${inside2}`,
-      photo3: `${inside3}`,
-      photo4: `${inside4}`,
-      photo5: `${inside5}`,
+      // photo1: `${inside1}`,
+      // photo2: `${inside2}`,
+      // photo3: `${inside3}`,
+      // photo4: `${inside4}`,
+      // photo5: `${inside5}`,
     },
     {
-      id: 16,
+      id: 12,
       car: {
-        photo: `${img2}`,
+        // photo: `${img2}`,
         name: "ST-7",
         cost: "79,000,000 KRW",
         type: "봉고",
@@ -377,16 +377,16 @@ export const campcarCaravan = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${image1}`,
-      photo2: `${image2}`,
-      photo3: `${image3}`,
-      photo4: `${image4}`,
-      photo5: `${image5}`,
+      // photo1: `${image1}`,
+      // photo2: `${image2}`,
+      // photo3: `${image3}`,
+      // photo4: `${image4}`,
+      // photo5: `${image5}`,
     },
     {
-      id: 20,
+      id: 13,
       car: {
-        photo: `${img3}`,
+        // photo: `${img3}`,
         name: "2022 Joa Camp",
         cost: "72,500,000 KRW",
         type: "르노마스터",
@@ -406,16 +406,16 @@ export const campcarCaravan = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${pic1}`,
-      photo2: `${pic2}`,
-      photo3: `${pic3}`,
-      photo4: `${pic4}`,
-      photo5: `${pic5}`,
+      // photo1: `${pic1}`,
+      // photo2: `${pic2}`,
+      // photo3: `${pic3}`,
+      // photo4: `${pic4}`,
+      // photo5: `${pic5}`,
     },
     {
-      id: 21,
+      id: 14,
       car: {
-        photo: `${img}`,
+        // photo: `${img}`,
         name: "Camper Sardegna",
         cost: "61,000,000 KRW",
         type: "르노마스터",
@@ -435,16 +435,16 @@ export const campcarCaravan = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${photo1}`,
-      photo2: `${photo2}`,
-      photo3: `${photo3}`,
-      photo4: `${photo4}`,
-      photo5: `${photo5}`,
+      // photo1: `${photo1}`,
+      // photo2: `${photo2}`,
+      // photo3: `${photo3}`,
+      // photo4: `${photo4}`,
+      // photo5: `${photo5}`,
     },
     {
-      id: 22,
+      id: 15,
       car: {
-        photo: `${img}`,
+        // photo: `${img}`,
         name: "Camper Sardegna",
         cost: "60,900,000 KRW",
         type: "봉고",
@@ -464,16 +464,16 @@ export const campcarCaravan = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${photo1}`,
-      photo2: `${photo2}`,
-      photo3: `${photo3}`,
-      photo4: `${photo4}`,
-      photo5: `${photo5}`,
+      // photo1: `${photo1}`,
+      // photo2: `${photo2}`,
+      // photo3: `${photo3}`,
+      // photo4: `${photo4}`,
+      // photo5: `${photo5}`,
     },
     {
-      id: 23,
+      id: 16,
       car: {
-        photo: `${img2}`,
+        // photo: `${img2}`,
         name: "T67/24",
         cost: "69,900,000 KRW",
         type: "봉고",
@@ -493,16 +493,16 @@ export const campcarCaravan = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${image1}`,
-      photo2: `${image2}`,
-      photo3: `${image3}`,
-      photo4: `${image4}`,
-      photo5: `${image5}`,
+      // photo1: `${image1}`,
+      // photo2: `${image2}`,
+      // photo3: `${image3}`,
+      // photo4: `${image4}`,
+      // photo5: `${image5}`,
     },
     {
-      id: 24,
+      id: 17,
       car: {
-        photo: `${img}`,
+        // photo: `${img}`,
         name: "Camper Sardegna",
         cost: "59,000,000 KRW",
         type: "포터",
@@ -522,16 +522,16 @@ export const campcarCaravan = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${photo1}`,
-      photo2: `${photo2}`,
-      photo3: `${photo3}`,
-      photo4: `${photo4}`,
-      photo5: `${photo5}`,
+      // photo1: `${photo1}`,
+      // photo2: `${photo2}`,
+      // photo3: `${photo3}`,
+      // photo4: `${photo4}`,
+      // photo5: `${photo5}`,
     },
     {
-      id: 25,
+      id: 18,
       car: {
-        photo: `${img2}`,
+        // photo: `${img2}`,
         name: "T67/24",
         cost: "59,000,000 KRW",
         type: "포터",
@@ -551,16 +551,16 @@ export const campcarCaravan = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${image1}`,
-      photo2: `${image2}`,
-      photo3: `${image3}`,
-      photo4: `${image4}`,
-      photo5: `${image5}`,
+      // photo1: `${image1}`,
+      // photo2: `${image2}`,
+      // photo3: `${image3}`,
+      // photo4: `${image4}`,
+      // photo5: `${image5}`,
     },
     {
-      id: 31,
+      id: 19,
       car: {
-        photo: `${img}`,
+        // photo: `${img}`,
         name: "Camper Sardegna",
         cost: "61,700,000 KRW",
         type: "포터",
@@ -580,16 +580,16 @@ export const campcarCaravan = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${photo1}`,
-      photo2: `${photo2}`,
-      photo3: `${photo3}`,
-      photo4: `${photo4}`,
-      photo5: `${photo5}`,
+      // photo1: `${photo1}`,
+      // photo2: `${photo2}`,
+      // photo3: `${photo3}`,
+      // photo4: `${photo4}`,
+      // photo5: `${photo5}`,
     },
     {
-      id: 32,
+      id: 20,
       car: {
-        photo: `${img3}`,
+        // photo: `${img3}`,
         name: "2022 Joa",
         cost: "76,700,000 KRW",
         type: "봉고",
@@ -609,16 +609,16 @@ export const campcarCaravan = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${pic1}`,
-      photo2: `${pic2}`,
-      photo3: `${pic3}`,
-      photo4: `${pic4}`,
-      photo5: `${pic5}`,
+      // photo1: `${pic1}`,
+      // photo2: `${pic2}`,
+      // photo3: `${pic3}`,
+      // photo4: `${pic4}`,
+      // photo5: `${pic5}`,
     },
     {
-      id: 33,
+      id: 21,
       car: {
-        photo: `${img}`,
+        // photo: `${img}`,
         name: "Camper Sardegna",
         cost: "79,000,000 KRW",
         type: "르노마스터",
@@ -638,16 +638,16 @@ export const campcarCaravan = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${photo1}`,
-      photo2: `${photo2}`,
-      photo3: `${photo3}`,
-      photo4: `${photo4}`,
-      photo5: `${photo5}`,
+      // photo1: `${photo1}`,
+      // photo2: `${photo2}`,
+      // photo3: `${photo3}`,
+      // photo4: `${photo4}`,
+      // photo5: `${photo5}`,
     },
     {
-      id: 34,
+      id: 22,
       car: {
-        photo: `${img}`,
+        // photo: `${img}`,
         name: "Camper Sardegna",
         cost: "72,700,000 KRW",
         type: "르노마스터",
@@ -667,16 +667,16 @@ export const campcarCaravan = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${photo1}`,
-      photo2: `${photo2}`,
-      photo3: `${photo3}`,
-      photo4: `${photo4}`,
-      photo5: `${photo5}`,
+      // photo1: `${photo1}`,
+      // photo2: `${photo2}`,
+      // photo3: `${photo3}`,
+      // photo4: `${photo4}`,
+      // photo5: `${photo5}`,
     },
     {
-      id: 35,
+      id: 23,
       car: {
-        photo: `${img2}`,
+        // photo: `${img2}`,
         name: "ST-7",
         cost: "66,000,000 KRW",
         type: "포터",
@@ -696,16 +696,16 @@ export const campcarCaravan = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${image1}`,
-      photo2: `${image2}`,
-      photo3: `${image3}`,
-      photo4: `${image4}`,
-      photo5: `${image5}`,
+      // photo1: `${image1}`,
+      // photo2: `${image2}`,
+      // photo3: `${image3}`,
+      // photo4: `${image4}`,
+      // photo5: `${image5}`,
     },
     {
-      id: 36,
+      id: 24,
       car: {
-        photo: `${img}`,
+        // photo: `${img}`,
         name: "Camper Sardegna",
         cost: "64,000,000 KRW",
         type: "봉고",
@@ -725,11 +725,11 @@ export const campcarCaravan = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${photo1}`,
-      photo2: `${photo2}`,
-      photo3: `${photo3}`,
-      photo4: `${photo4}`,
-      photo5: `${photo5}`,
+      // photo1: `${photo1}`,
+      // photo2: `${photo2}`,
+      // photo3: `${photo3}`,
+      // photo4: `${photo4}`,
+      // photo5: `${photo5}`,
     },
   ],
 };

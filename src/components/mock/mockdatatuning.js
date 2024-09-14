@@ -1,40 +1,40 @@
-import img from "../tuning/assets/tuning1.jpeg";
-import img3 from "../tuning/assets/tuning2.jpg";
-import img2 from "../tuning/assets/tuning3.png";
-import img4 from "../tuning/assets/tuning4.jpg";
-import img5 from "../tuning/assets/tuning5.jpeg";
-import pic1 from "../tuning/menu/assets1/pic1.jpg";
-import pic2 from "../tuning/menu/assets1/pic2.jpg";
-import pic3 from "../tuning/menu/assets1/pic3.jpg";
-import pic4 from "../tuning/menu/assets1/pic4.jpg";
-import pic5 from "../tuning/menu/assets1/pic5.jpg";
-import photo1 from "../tuning/menu/assets2/photo1.jpg";
-import photo2 from "../tuning/menu/assets2/photo2.jpg";
-import photo3 from "../tuning/menu/assets2/photo3.jpg";
-import photo4 from "../tuning/menu/assets2/photo4.jpg";
-import photo5 from "../tuning/menu/assets2/photo5.jpg";
-import inside1 from "../tuning/menu/assets3/inside1.jpg";
-import inside2 from "../tuning/menu/assets3/inside2.jpg";
-import inside3 from "../tuning/menu/assets3/inside3.jpg";
-import inside4 from "../tuning/menu/assets3/inside4.jpg";
-import inside5 from "../tuning/menu/assets3/inside5.jpg";
-import google1 from "../tuning/menu/assets4/google1.jpg";
-import google2 from "../tuning/menu/assets4/google2.jpg";
-import google3 from "../tuning/menu/assets4/google3.jpg";
-import google4 from "../tuning/menu/assets4/google4.jpg";
-import google5 from "../tuning/menu/assets4/google5.jpg";
-import picture1 from "../tuning/menu/assets5/picture1.jpg";
-import picture2 from "../tuning/menu/assets5/picture2.jpg";
-import picture3 from "../tuning/menu/assets5/picture3.jpg";
-import picture4 from "../tuning/menu/assets5/picture4.jpg";
-import picture5 from "../tuning/menu/assets5/picture5.jpg";
+// import img from "../tuning/assets/tuning1.jpeg";
+// import img3 from "../tuning/assets/tuning2.jpg";
+// import img2 from "../tuning/assets/tuning3.png";
+// import img4 from "../tuning/assets/tuning4.jpg";
+// import img5 from "../tuning/assets/tuning5.jpeg";
+// import pic1 from "../tuning/menu/assets1/pic1.jpg";
+// import pic2 from "../tuning/menu/assets1/pic2.jpg";
+// import pic3 from "../tuning/menu/assets1/pic3.jpg";
+// import pic4 from "../tuning/menu/assets1/pic4.jpg";
+// import pic5 from "../tuning/menu/assets1/pic5.jpg";
+// import photo1 from "../tuning/menu/assets2/photo1.jpg";
+// import photo2 from "../tuning/menu/assets2/photo2.jpg";
+// import photo3 from "../tuning/menu/assets2/photo3.jpg";
+// import photo4 from "../tuning/menu/assets2/photo4.jpg";
+// import photo5 from "../tuning/menu/assets2/photo5.jpg";
+// import inside1 from "../tuning/menu/assets3/inside1.jpg";
+// import inside2 from "../tuning/menu/assets3/inside2.jpg";
+// import inside3 from "../tuning/menu/assets3/inside3.jpg";
+// import inside4 from "../tuning/menu/assets3/inside4.jpg";
+// import inside5 from "../tuning/menu/assets3/inside5.jpg";
+// import google1 from "../tuning/menu/assets4/google1.jpg";
+// import google2 from "../tuning/menu/assets4/google2.jpg";
+// import google3 from "../tuning/menu/assets4/google3.jpg";
+// import google4 from "../tuning/menu/assets4/google4.jpg";
+// import google5 from "../tuning/menu/assets4/google5.jpg";
+// import picture1 from "../tuning/menu/assets5/picture1.jpg";
+// import picture2 from "../tuning/menu/assets5/picture2.jpg";
+// import picture3 from "../tuning/menu/assets5/picture3.jpg";
+// import picture4 from "../tuning/menu/assets5/picture4.jpg";
+// import picture5 from "../tuning/menu/assets5/picture5.jpg";
 
 export const campcarTuning = {
   maindata: [
     {
       id: 1,
       car: {
-        photo: `${img}`,
+        // photo: `${img}`,
         name: "2021 Lyseo",
         cost: "60,200,000 KRW",
         type: "르노마스터",
@@ -55,16 +55,16 @@ export const campcarTuning = {
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
 
-      photo1: `${pic1}`,
-      photo2: `${pic2}`,
-      photo3: `${pic3}`,
-      photo4: `${pic4}`,
-      photo5: `${pic5}`,
+      // photo1: `${pic1}`,
+      // photo2: `${pic2}`,
+      // photo3: `${pic3}`,
+      // photo4: `${pic4}`,
+      // photo5: `${pic5}`,
     },
     {
       id: 2,
       car: {
-        photo: `${img3}`,
+        // photo: `${img3}`,
         name: "Fiat Ducato",
         cost: "63,700,000 KRW",
         type: "르노마스터",
@@ -85,16 +85,16 @@ export const campcarTuning = {
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
 
-      photo1: `${photo1}`,
-      photo2: `${photo2}`,
-      photo3: `${photo3}`,
-      photo4: `${photo4}`,
-      photo5: `${photo5}`,
+      // photo1: `${photo1}`,
+      // photo2: `${photo2}`,
+      // photo3: `${photo3}`,
+      // photo4: `${photo4}`,
+      // photo5: `${photo5}`,
     },
     {
       id: 3,
       car: {
-        photo: `${img2}`,
+        // photo: `${img2}`,
         name: "Daihatsu Hijet",
         cost: "63,700,000 KRW",
         type: "르노마스터",
@@ -115,16 +115,16 @@ export const campcarTuning = {
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
 
-      photo1: `${inside1}`,
-      photo2: `${inside2}`,
-      photo3: `${inside3}`,
-      photo4: `${inside4}`,
-      photo5: `${inside5}`,
+      // photo1: `${inside1}`,
+      // photo2: `${inside2}`,
+      // photo3: `${inside3}`,
+      // photo4: `${inside4}`,
+      // photo5: `${inside5}`,
     },
     {
       id: 4,
       car: {
-        photo: `${img4}`,
+        // photo: `${img4}`,
         name: "르벤투스 차박S",
         cost: "66,100,000 KRW",
         type: "르노마스터",
@@ -145,16 +145,16 @@ export const campcarTuning = {
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
 
-      photo1: `${google1}`,
-      photo2: `${google2}`,
-      photo3: `${google3}`,
-      photo4: `${google4}`,
-      photo5: `${google5}`,
+      // photo1: `${google1}`,
+      // photo2: `${google2}`,
+      // photo3: `${google3}`,
+      // photo4: `${google4}`,
+      // photo5: `${google5}`,
     },
     {
       id: 5,
       car: {
-        photo: `${img2}`,
+        // photo: `${img2}`,
         name: "Daihatsu Hijet",
         cost: "65,300,000 KRW",
         type: "포터",
@@ -174,16 +174,16 @@ export const campcarTuning = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${inside1}`,
-      photo2: `${inside2}`,
-      photo3: `${inside3}`,
-      photo4: `${inside4}`,
-      photo5: `${inside5}`,
+      // photo1: `${inside1}`,
+      // photo2: `${inside2}`,
+      // photo3: `${inside3}`,
+      // photo4: `${inside4}`,
+      // photo5: `${inside5}`,
     },
     {
       id: 6,
       car: {
-        photo: `${img}`,
+        // photo: `${img}`,
         name: "2021 Lyseo",
         cost: "63,500,000 KRW",
         type: "포터",
@@ -203,16 +203,16 @@ export const campcarTuning = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${pic1}`,
-      photo2: `${pic2}`,
-      photo3: `${pic3}`,
-      photo4: `${pic4}`,
-      photo5: `${pic5}`,
+      // photo1: `${pic1}`,
+      // photo2: `${pic2}`,
+      // photo3: `${pic3}`,
+      // photo4: `${pic4}`,
+      // photo5: `${pic5}`,
     },
     {
       id: 7,
       car: {
-        photo: `${img2}`,
+        // photo: `${img2}`,
         name: "Daihatsu Hijet",
         cost: "62,900,000 KRW",
         type: "포터",
@@ -232,16 +232,16 @@ export const campcarTuning = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${inside1}`,
-      photo2: `${inside2}`,
-      photo3: `${inside3}`,
-      photo4: `${inside4}`,
-      photo5: `${inside5}`,
+      // photo1: `${inside1}`,
+      // photo2: `${inside2}`,
+      // photo3: `${inside3}`,
+      // photo4: `${inside4}`,
+      // photo5: `${inside5}`,
     },
     {
       id: 8,
       car: {
-        photo: `${img}`,
+        // photo: `${img}`,
         name: "2021 Lyseo",
         cost: "67,900,000 KRW",
         type: "봉고",
@@ -261,16 +261,16 @@ export const campcarTuning = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${pic1}`,
-      photo2: `${pic2}`,
-      photo3: `${pic3}`,
-      photo4: `${pic4}`,
-      photo5: `${pic5}`,
+      // photo1: `${pic1}`,
+      // photo2: `${pic2}`,
+      // photo3: `${pic3}`,
+      // photo4: `${pic4}`,
+      // photo5: `${pic5}`,
     },
     {
       id: 9,
       car: {
-        photo: `${img5}`,
+        // photo: `${img5}`,
         name: "DS9eU+a",
         cost: "65,200,000 KRW",
         type: "봉고",
@@ -291,16 +291,16 @@ export const campcarTuning = {
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
 
-      photo1: `${picture1}`,
-      photo2: `${picture2}`,
-      photo3: `${picture3}`,
-      photo4: `${picture4}`,
-      photo5: `${picture5}`,
+      // photo1: `${picture1}`,
+      // photo2: `${picture2}`,
+      // photo3: `${picture3}`,
+      // photo4: `${picture4}`,
+      // photo5: `${picture5}`,
     },
     {
       id: 10,
       car: {
-        photo: `${img4}`,
+        // photo: `${img4}`,
         name: "ACIER 790R",
         cost: "62,800,000 KRW",
         type: "이베코 뉴데일리",
@@ -320,16 +320,16 @@ export const campcarTuning = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${google1}`,
-      photo2: `${google2}`,
-      photo3: `${google3}`,
-      photo4: `${google4}`,
-      photo5: `${google5}`,
+      // photo1: `${google1}`,
+      // photo2: `${google2}`,
+      // photo3: `${google3}`,
+      // photo4: `${google4}`,
+      // photo5: `${google5}`,
     },
     {
-      id: 12,
+      id: 11,
       car: {
-        photo: `${img5}`,
+        // photo: `${img5}`,
         name: "르벤투스680",
         cost: "62,800,000 KRW",
         type: "이베코 뉴데일리",
@@ -349,16 +349,16 @@ export const campcarTuning = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${picture1}`,
-      photo2: `${picture2}`,
-      photo3: `${picture3}`,
-      photo4: `${picture4}`,
-      photo5: `${picture5}`,
+      // photo1: `${picture1}`,
+      // photo2: `${picture2}`,
+      // photo3: `${picture3}`,
+      // photo4: `${picture4}`,
+      // photo5: `${picture5}`,
     },
     {
-      id: 16,
+      id: 12,
       car: {
-        photo: `${img2}`,
+        // photo: `${img2}`,
         name: "Daihatsu Hijet",
         cost: "69,000,000 KRW",
         type: "봉고",
@@ -378,16 +378,16 @@ export const campcarTuning = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${inside1}`,
-      photo2: `${inside2}`,
-      photo3: `${inside3}`,
-      photo4: `${inside4}`,
-      photo5: `${inside5}`,
+      // photo1: `${inside1}`,
+      // photo2: `${inside2}`,
+      // photo3: `${inside3}`,
+      // photo4: `${inside4}`,
+      // photo5: `${inside5}`,
     },
     {
-      id: 20,
+      id: 13,
       car: {
-        photo: `${img3}`,
+        // photo: `${img3}`,
         name: "Fiat Ducato",
         cost: "66,000,000 KRW",
         type: "르노마스터",
@@ -407,16 +407,16 @@ export const campcarTuning = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${photo1}`,
-      photo2: `${photo2}`,
-      photo3: `${photo3}`,
-      photo4: `${photo4}`,
-      photo5: `${photo5}`,
+      // photo1: `${photo1}`,
+      // photo2: `${photo2}`,
+      // photo3: `${photo3}`,
+      // photo4: `${photo4}`,
+      // photo5: `${photo5}`,
     },
     {
-      id: 21,
+      id: 14,
       car: {
-        photo: `${img}`,
+        // photo: `${img}`,
         name: "2021 Lyseo",
         cost: "60,000,000 KRW",
         type: "르노마스터",
@@ -436,16 +436,16 @@ export const campcarTuning = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${pic1}`,
-      photo2: `${pic2}`,
-      photo3: `${pic3}`,
-      photo4: `${pic4}`,
-      photo5: `${pic5}`,
+      // photo1: `${pic1}`,
+      // photo2: `${pic2}`,
+      // photo3: `${pic3}`,
+      // photo4: `${pic4}`,
+      // photo5: `${pic5}`,
     },
     {
-      id: 22,
+      id: 15,
       car: {
-        photo: `${img}`,
+        // photo: `${img}`,
         name: "르벤투스680",
         cost: "68,900,000 KRW",
         type: "봉고",
@@ -465,16 +465,16 @@ export const campcarTuning = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${pic1}`,
-      photo2: `${pic2}`,
-      photo3: `${pic3}`,
-      photo4: `${pic4}`,
-      photo5: `${pic5}`,
+      // photo1: `${pic1}`,
+      // photo2: `${pic2}`,
+      // photo3: `${pic3}`,
+      // photo4: `${pic4}`,
+      // photo5: `${pic5}`,
     },
     {
-      id: 23,
+      id: 16,
       car: {
-        photo: `${img2}`,
+        // photo: `${img2}`,
         name: "Daihatsu Hijet",
         cost: "59,900,000 KRW",
         type: "봉고",
@@ -494,16 +494,16 @@ export const campcarTuning = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${inside1}`,
-      photo2: `${inside2}`,
-      photo3: `${inside3}`,
-      photo4: `${inside4}`,
-      photo5: `${inside5}`,
+      // photo1: `${inside1}`,
+      // photo2: `${inside2}`,
+      // photo3: `${inside3}`,
+      // photo4: `${inside4}`,
+      // photo5: `${inside5}`,
     },
     {
-      id: 24,
+      id: 17,
       car: {
-        photo: `${img}`,
+        // photo: `${img}`,
         name: "2021 Lyseo",
         cost: "49,000,000 KRW",
         type: "포터",
@@ -523,16 +523,16 @@ export const campcarTuning = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${pic1}`,
-      photo2: `${pic2}`,
-      photo3: `${pic3}`,
-      photo4: `${pic4}`,
-      photo5: `${pic5}`,
+      // photo1: `${pic1}`,
+      // photo2: `${pic2}`,
+      // photo3: `${pic3}`,
+      // photo4: `${pic4}`,
+      // photo5: `${pic5}`,
     },
     {
-      id: 25,
+      id: 18,
       car: {
-        photo: `${img2}`,
+        // photo: `${img2}`,
         name: "Daihatsu Hijet",
         cost: "39,000,000 KRW",
         type: "포터",
@@ -552,16 +552,16 @@ export const campcarTuning = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${inside1}`,
-      photo2: `${inside2}`,
-      photo3: `${inside3}`,
-      photo4: `${inside4}`,
-      photo5: `${inside5}`,
+      // photo1: `${inside1}`,
+      // photo2: `${inside2}`,
+      // photo3: `${inside3}`,
+      // photo4: `${inside4}`,
+      // photo5: `${inside5}`,
     },
     {
-      id: 31,
+      id: 19,
       car: {
-        photo: `${img}`,
+        // photo: `${img}`,
         name: "HWC560DL",
         cost: "61,000,000 KRW",
         type: "포터",
@@ -581,16 +581,16 @@ export const campcarTuning = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${pic1}`,
-      photo2: `${pic2}`,
-      photo3: `${pic3}`,
-      photo4: `${pic4}`,
-      photo5: `${pic5}`,
+      // photo1: `${pic1}`,
+      // photo2: `${pic2}`,
+      // photo3: `${pic3}`,
+      // photo4: `${pic4}`,
+      // photo5: `${pic5}`,
     },
     {
-      id: 32,
+      id: 20,
       car: {
-        photo: `${img3}`,
+        // photo: `${img3}`,
         name: "Fiat Ducato",
         cost: "76,000,000 KRW",
         type: "봉고",
@@ -610,16 +610,16 @@ export const campcarTuning = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${photo1}`,
-      photo2: `${photo2}`,
-      photo3: `${photo3}`,
-      photo4: `${photo4}`,
-      photo5: `${photo5}`,
+      // photo1: `${photo1}`,
+      // photo2: `${photo2}`,
+      // photo3: `${photo3}`,
+      // photo4: `${photo4}`,
+      // photo5: `${photo5}`,
     },
     {
-      id: 33,
+      id: 21,
       car: {
-        photo: `${img}`,
+        // photo: `${img}`,
         name: "2021 Lyseo",
         cost: "75,000,000 KRW",
         type: "르노마스터",
@@ -639,16 +639,16 @@ export const campcarTuning = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${pic1}`,
-      photo2: `${pic2}`,
-      photo3: `${pic3}`,
-      photo4: `${pic4}`,
-      photo5: `${pic5}`,
+      // photo1: `${pic1}`,
+      // photo2: `${pic2}`,
+      // photo3: `${pic3}`,
+      // photo4: `${pic4}`,
+      // photo5: `${pic5}`,
     },
     {
-      id: 34,
+      id: 22,
       car: {
-        photo: `${img}`,
+        // photo: `${img}`,
         name: "ST-7",
         cost: "77,000,000 KRW",
         type: "르노마스터",
@@ -668,16 +668,16 @@ export const campcarTuning = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${pic1}`,
-      photo2: `${pic2}`,
-      photo3: `${pic3}`,
-      photo4: `${pic4}`,
-      photo5: `${pic5}`,
+      // photo1: `${pic1}`,
+      // photo2: `${pic2}`,
+      // photo3: `${pic3}`,
+      // photo4: `${pic4}`,
+      // photo5: `${pic5}`,
     },
     {
-      id: 35,
+      id: 23,
       car: {
-        photo: `${img2}`,
+        // photo: `${img2}`,
         name: "Daihatsu Hijet",
         cost: "64,000,000 KRW",
         type: "포터",
@@ -697,16 +697,16 @@ export const campcarTuning = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${inside1}`,
-      photo2: `${inside2}`,
-      photo3: `${inside3}`,
-      photo4: `${inside4}`,
-      photo5: `${inside5}`,
+      // photo1: `${inside1}`,
+      // photo2: `${inside2}`,
+      // photo3: `${inside3}`,
+      // photo4: `${inside4}`,
+      // photo5: `${inside5}`,
     },
     {
-      id: 36,
+      id: 24,
       car: {
-        photo: `${img}`,
+        // photo: `${img}`,
         name: "르벤투스 차박S",
         cost: "64,000,000 KRW",
         type: "봉고",
@@ -726,11 +726,11 @@ export const campcarTuning = {
         word4:
           "Fuel heating is now very popular in the industry, but this was not always the case; Camper (once again) led the way in this area over 15 years ago. One of the advantages it offers is that it can heat up your vehicle while you drive, for a more comfortable arrival.",
       },
-      photo1: `${pic1}`,
-      photo2: `${pic2}`,
-      photo3: `${pic3}`,
-      photo4: `${pic4}`,
-      photo5: `${pic5}`,
+      // photo1: `${pic1}`,
+      // photo2: `${pic2}`,
+      // photo3: `${pic3}`,
+      // photo4: `${pic4}`,
+      // photo5: `${pic5}`,
     },
   ],
 };

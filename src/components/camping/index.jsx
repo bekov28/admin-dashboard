@@ -3,10 +3,10 @@ import Table from "@mui/joy/Table";
 import Typography from "@mui/joy/Typography";
 import Sheet from "@mui/joy/Sheet";
 import { Button } from "@mui/joy";
-import { campcar } from "../mock/motor";
+import { campcarCampingPlace } from "../mock/mockdatacamping";
 
-export default function Motor() {
-  const data = campcar.maindata;
+export default function Camping() {
+  const data = campcarCampingPlace.maindata;
   return (
     <div style={{ padding: "2%" }}>
       <div
@@ -17,9 +17,9 @@ export default function Motor() {
         }}
       >
         <Typography sx={{ fontSize: 24, fontWeight: 600 }}>
-          Motor Data List
+          Camping Place Data List
         </Typography>
-        <Button variant="solid">Add New Motor</Button>
+        <Button variant="solid">Add New Camping Place</Button>
       </div>
       <Sheet
         variant="outlined"
@@ -29,15 +29,15 @@ export default function Motor() {
           <thead style={{ padding: "20px 0" }}>
             <tr>
               <th>No</th>
-              <th>Motor Name</th>
-              <th>Year</th>
+              <th>Camping Place Name</th>
+              <th>Contact</th>
               <th>Location</th>
               <th>Brand</th>
               <th>People</th>
-              <th>Rate</th>
               <th>Type</th>
               <th>License</th>
               <th>Cost</th>
+              <th>Site</th>
             </tr>
           </thead>
           <tbody>
@@ -45,15 +45,15 @@ export default function Motor() {
               return (
                 <tr key={value.id}>
                   <td>{value.id}</td>
-                  <td>{value.car.name}</td>
-                  <td>{value.car.date}</td>
-                  <td>{value.car.location}</td>
-                  <td>{value.car.company}</td>
-                  <td>{value.car.people}</td>
-                  <td>{value.car.rate}</td>
-                  <td>{value.car.type}</td>
-                  <td>{value.car.license}</td>
-                  <td>{value.car.cost}</td>
+                  <td>{value.camping.name}</td>
+                  <td>{value.camping.phone}</td>
+                  <td>{value.camping.location}</td>
+                  <td>{value.camping.company}</td>
+                  <td>{value.camping.people}</td>
+                  <td>{value.camping.type}</td>
+                  <td>{value.camping.license}</td>
+                  <td>{value.camping.cost}</td>
+                  <td>{value.camping.site}</td>
                 </tr>
               );
             })}

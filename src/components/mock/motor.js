@@ -326,7 +326,7 @@ export const campcar = {
       // photo5: `${image5}`,
     },
     {
-      id: 12,
+      id: 11,
       car: {
         // photo: `${img5}`,
         name: "르벤투스680",
@@ -355,7 +355,7 @@ export const campcar = {
       // photo5: `${pic5}`,
     },
     {
-      id: 16,
+      id: 12,
       car: {
         // photo: `${img2}`,
         name: "ST-7",
@@ -384,7 +384,7 @@ export const campcar = {
       // photo5: `${photo5}`,
     },
     {
-      id: 20,
+      id: 13,
       car: {
         // photo: `${img3}`,
         name: "DS9eU+a",
@@ -413,7 +413,7 @@ export const campcar = {
       // photo5: `${inside5}`,
     },
     {
-      id: 21,
+      id: 14,
       car: {
         // photo: `${img}`,
         name: "DS9eU+a",
@@ -442,7 +442,7 @@ export const campcar = {
       // photo5: `${heating}`,
     },
     {
-      id: 22,
+      id: 15,
       car: {
         // photo: `${img}`,
         name: "르벤투스680",
@@ -471,7 +471,7 @@ export const campcar = {
       // photo5: `${heating}`,
     },
     {
-      id: 23,
+      id: 16,
       car: {
         // photo: `${img2}`,
         name: "DS9eU+a",
@@ -500,7 +500,7 @@ export const campcar = {
       // photo5: `${photo5}`,
     },
     {
-      id: 24,
+      id: 17,
       car: {
         // photo: `${img}`,
         name: "르벤투스680",
@@ -529,7 +529,7 @@ export const campcar = {
       // photo5: `${heating}`,
     },
     {
-      id: 25,
+      id: 18,
       car: {
         // photo: `${img2}`,
         name: "르벤투스 차박S",
@@ -558,7 +558,7 @@ export const campcar = {
       // photo5: `${photo5}`,
     },
     {
-      id: 31,
+      id: 19,
       car: {
         // photo: `${img}`,
         name: "HWC560DL",
@@ -587,7 +587,7 @@ export const campcar = {
       // photo5: `${heating}`,
     },
     {
-      id: 32,
+      id: 20,
       car: {
         // photo: `${img3}`,
         name: "HWC620DL",
@@ -616,7 +616,7 @@ export const campcar = {
       // photo5: `${inside5}`,
     },
     {
-      id: 33,
+      id: 21,
       car: {
         // photo: `${img}`,
         name: "르벤투스 차박S",
@@ -645,7 +645,7 @@ export const campcar = {
       // photo5: `${heating}`,
     },
     {
-      id: 34,
+      id: 22,
       car: {
         // photo: `${img}`,
         name: "ST-7",
@@ -674,7 +674,7 @@ export const campcar = {
       // photo5: `${heating}`,
     },
     {
-      id: 35,
+      id: 23,
       car: {
         // photo: `${img2}`,
         name: "ST-7",
@@ -703,7 +703,7 @@ export const campcar = {
       // photo5: `${photo5}`,
     },
     {
-      id: 36,
+      id: 24,
       car: {
         // photo: `${img}`,
         name: "르벤투스 차박S",

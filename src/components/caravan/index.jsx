@@ -3,10 +3,10 @@ import Table from "@mui/joy/Table";
 import Typography from "@mui/joy/Typography";
 import Sheet from "@mui/joy/Sheet";
 import { Button } from "@mui/joy";
-import { campcar } from "../mock/motor";
+import { campcarCaravan } from "../mock/mockdatacaravan";
 
-export default function Motor() {
-  const data = campcar.maindata;
+export default function Caravan() {
+  const data = campcarCaravan.maindata;
   return (
     <div style={{ padding: "2%" }}>
       <div
@@ -17,9 +17,9 @@ export default function Motor() {
         }}
       >
         <Typography sx={{ fontSize: 24, fontWeight: 600 }}>
-          Motor Data List
+          Caravan Data List
         </Typography>
-        <Button variant="solid">Add New Motor</Button>
+        <Button variant="solid">Add New Caravan</Button>
       </div>
       <Sheet
         variant="outlined"
@@ -29,7 +29,7 @@ export default function Motor() {
           <thead style={{ padding: "20px 0" }}>
             <tr>
               <th>No</th>
-              <th>Motor Name</th>
+              <th>Caravan Name</th>
               <th>Year</th>
               <th>Location</th>
               <th>Brand</th>
